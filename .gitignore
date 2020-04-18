@@ -1,0 +1,12 @@
+
+# do not track the following types of files
+*.*~
+_*
+
+**/**/.vim
+**/**/.todos.md
+**/**/.notes.md
+**/**/.notes
+**/**/.notes/
+
+**/**/node_modules/
